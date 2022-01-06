@@ -1,0 +1,6 @@
+# Code formatter
+black==21.12b0
+isort==5.10.1
+
+# Linter
+pylint==2.12.2
